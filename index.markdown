@@ -11,4 +11,4 @@ I am a mechanical engineering student with a passion for the ocean that I explor
 <!-- ![profile]({{ site.baseurl }}/assets/img/board_v2/profile.jpeg) -->
 <!-- ![box1](/assets/img/board_v1/box1.jpeg) -->
 
-![box1]({{ "/assets/img/board_v1/box1.jpeg" | relative_url }})
+![box1]({{ "/assets/img/board_v1/box1.JPEG" | relative_url }})
