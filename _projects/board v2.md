@@ -1,6 +1,6 @@
 ---
 layout: page
-title: board v2 - draft
+title: board v2 (draft)
 description: a better board
 ---
 
